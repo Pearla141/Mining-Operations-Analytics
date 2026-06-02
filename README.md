@@ -2,7 +2,7 @@
 
 ### SQL Server + Power BI | Granite Quarry Operations | 6-Month Analysis
 
-![Dashboard Preview](screenshots\dashboard_overview.jpeg)
+![Dashboard Preview](screenshots\dashboard_overview.jpg)
 
 -----
 
